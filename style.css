@@ -1,0 +1,111 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: "Poppins";
+    position: relative;
+
+}
+
+.nev_bar{
+    display: flex;
+    width: 1440px;
+    height: 142px;
+    justify-content: space-between;
+    gap: 845px;
+
+}
+
+.logo{
+        display: flex;
+        justify-content: space-between;
+        width: 91px;
+        height: 26px;
+        gap: 12px;
+        margin-top: 32px;
+        margin-left: 88px;
+}
+
+.logo_title{
+    font-weight: 600;
+    width: 54px;
+    height: 24px;
+    color: #285E67;
+
+}
+
+.logo_image{
+ 
+    height: 26px;
+    width: 26px;
+    border-radius: 50%;
+    background-color: #D0D0D0;
+}
+
+.function{
+    display: flex;
+    width: 347px;
+    height: 24px;
+    justify-content: space-between;
+    margin-top: 32px;
+    margin-right: 69px; 
+    gap: 40px;
+}
+
+.function_child{
+    font-size: 16px;
+}
+
+.content{
+    margin-left: 70px;
+    margin-right: 70px;
+    width: 1300px;
+    height: 3524px;
+
+}
+
+.section1{
+    display: flex;
+    flex-direction: column;
+    gap: 33px;
+}
+
+.section1_heading{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    gap: 17px;
+    width: 1300px;
+    height: 123px;
+
+}
+.Section1-text1{
+    font-weight: 600;
+    font-size: 65.34px;
+    line-height: 82px;
+    letter-spacing: 0px;
+    text-align: center;
+
+}
+
+.section1_image_button{
+    display:inline-block;
+    width: 97px;
+    height: 24px;
+    border-radius: 67px;
+    background-color: #285E67;
+    text-align: center;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-left: 77px;
+    padding-right: 77px;
+    margin-left: 524.5px;
+    margin-bottom: 56px;
+}
+
+.section1--img{
+    width: 626px;
+    height: 391px;
+    border-radius: 16px;
+
+}
