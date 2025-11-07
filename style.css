@@ -338,6 +338,8 @@ body{
     border-radius: 12px;
     background: url(./6ffa38c75963c1395d4cd22dd87078f89d5c9065.jpg);
     background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
     display: flex;
     flex-direction: column;
     align-items: center;
